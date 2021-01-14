@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  font-family: 'Acme', sans-serif;
+  
+  font-family: 'Anton', sans-serif;
+
+  font-family: 'Bebas Neue', cursive;
+
+  font-family: 'Bree Serif', serif;
+
+  font-family: 'Goldman', cursive;
+
+  font-family: 'Kanit', sans-serif;
+
+  font-family: 'Staatliches', cursive;
+
+  font-family: 'Teko', sans-serif;
+}
